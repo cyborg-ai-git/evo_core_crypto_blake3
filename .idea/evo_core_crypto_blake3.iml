@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/b3sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b3sum/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/c/blake3_c_rust_bindings/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/c/blake3_c_rust_bindings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools/compiler_version/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools/instruction_set_support/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/b3sum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/c/blake3_c_rust_bindings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/reference_impl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/test_vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tools/compiler_version/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tools/instruction_set_support/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
